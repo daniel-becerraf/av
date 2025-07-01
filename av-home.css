@@ -38,6 +38,13 @@
 
 }
 
+#body h1{
+
+    font-size: 100px;
+    font-family: 'emd_Bold';
+    
+}
+
 h2{
 
     font-weight: 'emd_Sub';
@@ -51,3 +58,5 @@ h2{
     font-family: 'emd_Reg';
     
 }
+
+
