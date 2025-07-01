@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'emd_Reg';
+    src: url('embermoderndisplaystd-regular-webfont.woff2') format('woff2'),
+         url('embermoderndisplaystd-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'emd_Bold';
+    src: url('embermoderndisplaystd-bold-webfont.woff2') format('woff2'),
+         url('embermoderndisplaystd-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'emd_Sub';
+    src: url('embermodernsubhead-regular-webfont.woff2') format('woff2'),
+         url('embermodernsubhead-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#Htitle{
+
+    font-size: 100px;
+    font-family: 'emd_Bold';
+
+}
