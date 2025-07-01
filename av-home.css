@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'emd_Reg';
-    src: url('embermoderndisplaystd-regular-webfont.woff2') format('woff2'),
-         url('embermoderndisplaystd-regular-webfont.woff') format('woff');
+    src: url('https://daniel-becerraf.github.io/av/av-fonts/embermoderndisplaystd-regular-webfont.woff2') format('woff2'),
+         url('https://daniel-becerraf.github.io/av/av-fonts/embermoderndisplaystd-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -12,8 +12,8 @@
 
 @font-face {
     font-family: 'emd_Bold';
-    src: url('embermoderndisplaystd-bold-webfont.woff2') format('woff2'),
-         url('embermoderndisplaystd-bold-webfont.woff') format('woff');
+    src: url('https://daniel-becerraf.github.io/av/av-fonts/embermoderndisplaystd-bold-webfont.woff2') format('woff2'),
+         url('https://daniel-becerraf.github.io/av/av-fonts/embermoderndisplaystd-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -24,8 +24,8 @@
 
 @font-face {
     font-family: 'emd_Sub';
-    src: url('embermodernsubhead-regular-webfont.woff2') format('woff2'),
-         url('embermodernsubhead-regular-webfont.woff') format('woff');
+    src: url('https://daniel-becerraf.github.io/av/av-fonts/embermodernsubhead-regular-webfont.woff2') format('woff2'),
+         url('https://daniel-becerraf.github.io/av/av-fonts/embermodernsubhead-regular-webfont.woff') format('woff');
     font-weight: medium;
     font-style: normal;
 
