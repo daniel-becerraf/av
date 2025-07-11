@@ -31,10 +31,20 @@
 
 }
 
+
+.main {
+
+   font-family: 'emd_Reg', 'emd_Sub', 'emd_Bold', sans-serif;
+
+    
+}
+
+
 #Htitle{
 
     font-size: 100px;
     font-family: 'emd_Bold';
+    color: red;
 
 }
 
